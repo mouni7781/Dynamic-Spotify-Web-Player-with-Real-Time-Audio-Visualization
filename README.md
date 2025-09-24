@@ -7,7 +7,8 @@ A pixel-perfect, framework-free replica of the Spotify web player, built to show
 </div>
 
 ## 🎥 Project Demo & Walkthrough
-
+ 
+https://github.com/user-attachments/assets/1cd46a75-61b9-4292-a33c-1824e040d874
 
 ---
 ## ✨ About The Project
@@ -65,7 +66,7 @@ Desktop View
 
 | Mobile View | Audio Visualizer in Action |
 | :---: | :---: |
-| <img width="403" alt="Mobile view image" src="https://github.com/user-attachments/assets/961f3fef-41dd-4a1e-8eca-88d43a2b1219"> | <img width="403" alt="Audio visual image " src="https://github.com/user-attachments/assets/83fc31ed-f650-43dd-ac15-9fe61aba9caf"> |
+| <img width="403" alt="Mobile view image" src="https://github.com/user-attachments/assets/961f3fef-41dd-4a1e-8eca-88d43a2b1219"> | <img width="403" height="200" alt="Audio visual image " src="https://github.com/user-attachments/assets/83fc31ed-f650-43dd-ac15-9fe61aba9caf"> |
 
 ---
 ## ⚙️ Getting Started
