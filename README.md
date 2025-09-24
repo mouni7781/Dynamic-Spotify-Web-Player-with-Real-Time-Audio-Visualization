@@ -58,20 +58,14 @@ The codebase is organized into logical modules to ensure maintainability and rea
 
 ---
 ## 📸 Screenshots & Gallery
-(Add your screenshots here to show off the responsive design and key features.)
 
 Desktop View
 
-<img width="80%" height="700" alt="image" src="" />
+<img width="80%" height="700" alt="Desktop View image" src="https://github.com/user-attachments/assets/fcdf9805-08e8-41f7-bf29-853a51d092da" />
 
-Mobile View
-
-<img width="403" height="300" alt="image" src="" />
-
-
-Audio Visualizer in Action
-<img width="50%" height="102" alt="Screenshot 2025-09-24 173254" src="" />
-
+| Mobile View | Audio Visualizer in Action |
+| :---: | :---: |
+| <img width="403" alt="Mobile view image" src="https://github.com/user-attachments/assets/961f3fef-41dd-4a1e-8eca-88d43a2b1219"> | <img width="403" alt="Audio visual image " src="https://github.com/user-attachments/assets/83fc31ed-f650-43dd-ac15-9fe61aba9caf"> |
 
 ---
 ## ⚙️ Getting Started
@@ -90,4 +84,6 @@ cd your-repository-name
 ### 3. Open index.html in your Vs-Code:
 ```sh
 Install the "Live Server" extension. Then, right-click the index.html file and choose "Open with Live Server".
+```
+
 ---
